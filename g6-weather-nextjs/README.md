@@ -131,8 +131,7 @@ A continuación se presentan capturas del funcionamiento de la aplicación en ti
 
 La aplicación se encuentra desplegada y lista para usar en producción:
 
-URL aqui
-
+https://grupo6-weather-nextjs16.vercel.app/ 
 ---
 
 ## 9. Fuentes de Información y Referencias Técnicas
